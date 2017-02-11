@@ -1,4 +1,4 @@
-// test maxProfit.js
+// test of maxProfit.js
 
 var assert = require('chai').assert;
 var maxProfit = require('../lib/maxProfit');
